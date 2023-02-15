@@ -1,5 +1,5 @@
 -
 +Fixing Stuff?
-+Instructions
+INSTRUCTIONS AFTER GITIGNORE
 
 I'm trying to make another commit in this thing.
